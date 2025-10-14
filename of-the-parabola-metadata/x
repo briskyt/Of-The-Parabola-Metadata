@@ -1,2 +1,0 @@
-    mkdir new_folder # If the folder doesn't exist
-    git mv * new_folder/

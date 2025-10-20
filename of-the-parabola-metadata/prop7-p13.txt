@@ -1,0 +1,21 @@
+Of the Parabola  13
+Proposition 7.
+If the right Line TA be drawn to touch the
+Parabola in the Point A, and there be drawn
+the Semi-Ordinate AC. The Sub-tangent
+TC will be double to the Abcissa VC, that
+is, VT will be equal to VC.
+T
+C n a
+Let 1 VC = x, CA = y,
+An = x, an = y
+Euc. 4. 6 2 y : x :: y : yx/y = TC.
+Prop. 3. 3 Lx = yy
+Euc. 3 4 Lx = 2yy
+That is 5 x = 2yy/L
+2 & 5 6 2y^2y/Ly = TC
+that is 7 2yy/L = TC
+3 & 7 8 2Lx/L = TC
+Whence 9 2x = TC; therefore the Sub-tan-
+gent is double to the Abcissa, as was to be
+demonstrated.

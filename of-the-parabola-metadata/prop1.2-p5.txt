@@ -1,0 +1,27 @@
+Of the Parabola
+5
+From this Property of the Parabola we have ano-
+ther Method of rescribing tha Curve by Points.
+Thus, if any Abcissa be taken, and multiplyd by
+4 Times the distance of the Focus from the
+Vertex, the Square Root of that Product will be
+the length of the corresponding Ordinate.
+Or thus Geometrically.
+To the Abcissa VC, and CD e-
+qual to four times the distance
+of the Focus from the Vertex
+V
+A A
+VF, then bisect VD in the point
+E, and on E. as a center deseribe
+a Circle with the Radius ED =
+EV, which will cut the Perpendicular ACA in
+the Points A, A, so shall the Points A and A be
+in the Curve of the Parabola.
+For by Euc. 35. 3. the Square of CA is = the
+Rectangle under VC and CD, but CD = 4VF, and
+therefore by Prop. 1. the Points A and A are in
+the Curve of the Parabola.
+Note. There is no need of drawing the Whole circle,
+it will be sufficient to strike the Perpendicular in the
+Point A. I did it here for the sake of the Demonstration.

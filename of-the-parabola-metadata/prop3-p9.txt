@@ -1,0 +1,25 @@
+Of the Parabola
+9
+Proposition 3
+The Latus Rectum or Right Parameter, is
+four times the distance of the Focus from the
+Vertex, and is a third Proportional to any
+Abcissa and its corresponding Semi-Ordinate.
+L A
+A C
+Let 1 VF = a
+2 FL = y
+Prop. 1. 3 yy = 4ax
+But 4 x = a
+: 3.4 5 yy = 4aa
+in 5 6 y = 2a = FL. Therefore LA is = 4a
+= 4VF, as was to be proved.
+Again
+Let 1 4VF = L = the Latus Rectum
+2 VC = x, and CA = y.
+Prop. 1. 3 Lx = yy
+Prop 16.3 4 x: y :: y : L
+6. Euc. 
+That is, VC : CA : CA : LA, as was to
+be demostrated. The Construction of the
+Curve from this Prop. is the same as before, Prop. 1.

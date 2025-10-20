@@ -1,0 +1,18 @@
+10
+Of the Parabola
+Proposition 4.
+As the Latus Rectum, is to the Sum of any
+two Semi-ordinates; so is their Difference, to the
+Differences of their Abcissas.
+V
+L F A
+D E
+I say, LA : DE + CB :: DE - CB : VD - VC
+Let 1 LA = L, VC = x, VD = X, CB = y,
+and DE = YY.
+Prop. 3. 2 Lx = yy, and LX = YY
+p axiom 3 LX - Lx = YY - yy
+That is 4 L x X - x = Y + y x Y - y
+Euc. 16. 6 5 L : Y + y :: Y - y : X - x.
+That is 6 LA : DE + CB :: DE - CB : VD - VC.
+which was to be demonstrated.

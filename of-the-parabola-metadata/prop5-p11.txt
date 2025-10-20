@@ -1,0 +1,23 @@
+Of the Parabola
+11
+Proposition 5.
+If from the Vertex V a right Line be drawn
+cutting the Curve in any Point A, and any
+Ordinate either within or without the Parabola,
+as RS; it will be, as the Latus Rectum, is to
+the Semi- Ordinate CA; so is 23, to the correspond-
+ing Abcissa VR.
+V
+R B S
+Let 1 VC = x, VR = X,
+CA = y, RB = Y,
+and RS = b.
+Prop. 2. 2 yy : YY : xx : X
+By Sim. 3 x : X :: y : b
+Triangles
+2. 3. 4 yy : YY :: y : b
+Euc. 16. 6. 5 byy = yYY
+5 :- 4 6 by = YY = LX by Prop. 3.
+: 6 7 by = LX
+Euc. 16. 6 8 L : y :: b : X
+That is 9 L : CA :: RS : VR, which was to be proved.

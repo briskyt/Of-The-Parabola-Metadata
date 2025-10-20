@@ -1,0 +1,22 @@
+	24 Of the Parabola
+Proposition 17.
+If an Ordinate to any Diameter pass through
+the Focus, the Abcissa corresponding to that
+Ordinate will be equal to a fourth and the
+Semiordinate equal to one half of the Para-
+meter corresponding to that Diameter. That
+is, AK = 1/4P, and EK = 1/2P.
+T
+K
+AK- F.T.
+Euc. 34.1. 1 AK = FT
+Prop. 8. 2 FT = FA
+1. 2. 3 AK = FA
+Prop. 15. 4 FA = 1/4P
+3. 4. 5 AK = 1/4P. Q.E.D.
+Again
+Because 6 AK = 1/4P
+Prop. 13 7 P x AK = EK^2
+: 6. 7. 8 EK^2 = P x 1/4P = 1/4PP
+and x 9 EK = 1/2P, which was to
+be demonstrated.

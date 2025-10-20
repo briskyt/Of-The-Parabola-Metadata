@@ -1,0 +1,25 @@
+Of the Parabola    7
+E
+D B A G
+Thus. Let the Cone DEG
+be cut by a Plane parallel
+to the side DE. Then the
+Section AAVAABA is cal-
+led a Parabola.
+In which it will always
+be, VC : VB :: AC^2 : AB^2.
+Demonstration
+P Sim. 1 VC: CI :: VB : BG.
+Triangles
+Euc. 16.6 2 VC x BG = CI x VB
+2 x HC = 3 VC x BG x HC = CI x VB x HC
+DB . . . .
+Euc. 35.3 4 AB^2 = DB x GB
+5 AC^2 = HC x CI
+But 6 HC = BD
+: 3.4.5. 7 VC x AB^2 = VB x AC^2
+Euc. 16. 6 8 VC : VB :: AC^2 : AB^2, as was to be
+demonstrated.
+And hence we are furnished with ano-
+ther methood of describing the Parabola through
+Points, having given ohe Abcissa and its Ordinate.

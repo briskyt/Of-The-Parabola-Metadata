@@ -1,0 +1,22 @@
+Of the Parabola  23
+Proposition 16
+If from the Focus, a Perpendicular be
+drawn to any Tangent, the Square of that
+Line will be equal to the Rectangle under
+the diftances of the Focus from the Vertex
+and from the Point of Contact. That is FD^2
+= FV x FA.
+T
+V D
+C A
+Draw the right Line VD
+perpendicular to the Axis;
+I say VD, because it will
+coincide with the point D
+by reason FT = FA, & VT = VC.
+Euc. 2.6. 1 DT = DA
+Euc. 8. 6. 2 TF : FD :: FD : FV
+: 2. 3 FD^2 = FV x FT
+Prop. 10. 4 FT = FA
+3. 4. 5 FD^2 = FV x FA. Which was to be
+demonstrated.

@@ -1,0 +1,26 @@
+8
+Of the Parabola
+Or thus Geometrically
+Let VC be the given
+Abcissa whose correspon-
+ding Ordinate is CA,
+and 'tis required to find
+the Ordinate to the
+Abcissa VB.
+V
+A A
+E
+Join VA, and Perpen-
+dicular thereto draw AD
+to meet the Axis in D.
+That done, make BE equal to CD; then bisect
+VE in I, and setting one foot of the Compasses
+in I, with the Radius  IV = IE, cross the perpen-
+dicular BA in A. I say the Point A is in
+the Curve of the Parabola.
+For by this construction and Euc. 11.6 CD is = CA^2/VC
+and because BE is made = CD, it is BE = CA^2/YC, and
+multiplying by VB, it is BE x VB = CA^2 x VB / VC. But
+by Euc. 35. 3. BE x VB = AB^2, therefore AB^2 =
+AC^2 x VB / VC. That is VC : VB :: AC^2 : AB^2, as in
+Prop. 2. Therefore the Point A is in the Parabola.

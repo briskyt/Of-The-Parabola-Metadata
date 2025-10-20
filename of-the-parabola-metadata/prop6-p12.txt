@@ -1,0 +1,26 @@
+12 Of the Parabola
+Proposition 6.
+If any Point P be taken in the Axis produced,
+and a right Line be drawn from thence cut-
+ting the Curve in two Points A and B, and the
+Ordinates AC and BD be drawn; The distance
+of the Point P above the Vertex, will be a geo-
+metrical mean Proportional
+between the two Abcissas VC &
+VD.
+P
+D B
+Let 1 VC = x, VD = X, and
+VP = b.
+Then 2 PC = b + x, and
+PD = b + X.
+By Similar. 3 PC^2 : PD^2 :: CA^2 : DB^2
+Triangles
+Prop. 2. 4 CA^2 : DB^2 :: x : X
+3.4. 5 PC^2 : PD^2 :: x : X
+2. 5. 6 bb + 2bx + xx : bb + 2bX + XX :: x :: X
+: 7 bbX + 2bxX + xxX = bbx + 2bxx + XXx
+7. reduced 8 X - xxbb = X - X x xX
+8 :- 9 bb = xX and if A and B coincide X = x, bb = x^2, b = x
+: 10 x : b :: b : X Then PA is a tangent
+That is 11 VC : VP :: VP : VD. as was to be proved.

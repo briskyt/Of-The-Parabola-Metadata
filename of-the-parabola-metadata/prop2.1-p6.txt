@@ -1,0 +1,20 @@
+6
+Of the Parabola
+Proposition 2
+The Squares of the Semi-ordinates are in direct
+Proportion to their respective Abcissas. That is,
+VC : VB :: AC^2 : AB^2.
+V
+A C
+A B
+4C-y
+Let 1 VF = a, VC = x, VB = X, AC = y
+and AB = Y.
+Prop 1. 2 4ax = yy
+3 4aX = YY
+Therefore 4 4ax : 4aX :: yy : YY
+also 5 x : X :: yy : YY.
+That is 6 VC : VB :: AC^2 : AB^2, which was to be
+demonstrated.
+This is that Property of the Parabola which is
+immediately demonstrated from the Section of a Cone.

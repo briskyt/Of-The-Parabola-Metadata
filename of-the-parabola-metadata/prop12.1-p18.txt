@@ -1,0 +1,24 @@
+18  Of the Parabola
+Proposition 12.
+If parallel to the Tangent TA, a right
+Line be drawn to cut the curve, that part
+DE within the curve, will be bisected by the
+Diameter AB. That is, KE = KD.
+Let the other Lines be drawn
+as in the figure.
+T
+I B D
+Prop. 7 1 TC = 2TV
+: 2 <| TAC = |=| GC
+Euc. 19. 6 3 <| TAC = |=| GC : OEH
+:: CA^2 : HE^2.
+Prop. 2 4 CA^2 : HE^2 :: VC : VH
+Euc. 1. 6. 5 VC : VH :: |=| GC : |=| GH
+: 3.4.5 6 <| OEH = |=| GH
+Again 7 <| TAC is familiar to
+the <| ODI. Whence
+it may be proved in
+like manner, that <| ODI is = |=| GI
+7-6--
+IBKEH 8 leaves the <| BKD = and familiar to the
+<| KEQ. Therefore KE = KD. Q.E.D.

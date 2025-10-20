@@ -1,0 +1,22 @@
+20 Of the Parabola
+Proposition 13
+If it be as AG to AR, so is twice TA to a
+fourth, that fourth is called a Parameter to
+the Diameter AB. And the Rectangle under
+this Parameter, which I shall henceforth call
+P, and any Abcissa of that Diameter, is e-
+qual to the Square of the Semiordinate corre-
+sponding to that Abcissa, that is, P x AK is = 
+KD^2 = KE^2.
+T
+V E R G
+B D
+Def. 1 AG : AR :: 2TA : P
+Euc. 4.6. 2 AG : AR :: KB : KD
+1 & 2 3  2TA : P :: KB : KD
+:3 4 P/2TA = KD/KB
+Lem. 5 2TA x AK = KB x KD
+4 x 5 6 P/2TA x 2TA x AK is
+= KD/KB x KB x KD
+That is 7 P x AK = KD x KD = KD^2 = KE^2, which was
+to be demonstrated.

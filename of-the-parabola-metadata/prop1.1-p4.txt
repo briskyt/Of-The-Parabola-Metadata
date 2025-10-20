@@ -1,0 +1,19 @@
+4
+Of the Parabola
+Proposition 1.
+The Square of any Semi-ordinate CA, is equal
+to the Rectangle of the Abcissa VC into 4 times
+the distance of the Focus from the Vertex.
+That is CA^2 = VC^2 X 4VF.
+V
+A
+Let 1 VF = a, VC = x, and CA = y
+Then by 2 CF = a s x
+Construc.
+and .3 FA = a + x
+Lem. 47.1. 4 FA^2 = CA^2 + CF^2
+1.3.4 5 aa + 2ax + xx = yy + aa - 2ax + xx
+5 - aa 6 2ax + xx = yy - 2ax + xx
+6 - xx 7 2ax = yy - 2ax
+7 + 2ax 8 4ax = yy
+That is 9 CA^2 = VC x 4VD, as was to be proved.

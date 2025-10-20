@@ -1,0 +1,19 @@
+16
+Of the Parabola
+Proposition 10
+If three right Lines be drawn from the
+Focus, one to the point of contact, another
+to the intersection of the Tangent Line with
+the Axis, and another to the end of the
+Sub-normal, they will be all equal. That
+is, FA, FT, FD, are all equal.
+T
+CA
+D
+Let 1 VC = x
+Prop. 3 2 FC = x - 1/4L
+Prop. 9 3 CD = 1/2 L
+: 2. 3. 4 FD = x + 1/4L
+Prop. 7 5 FT = x + 1/4L
+Prop. 8 6 FA = FT. Therefore FA = FT = FD
+as was to be demonstrated.

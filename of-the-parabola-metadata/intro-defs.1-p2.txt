@@ -1,0 +1,22 @@
+2
+Of the Parabola
+very Section of a Cone made by cutting it
+with a Plane parallel to one of its sides
+as shall be shewed further on. See Prop. 2.
+Definitions
+1. The right Line VC is called the Axis of
+the Parabola, and divides the Parabola into two
+equal Parts. And the Line GD is called the Directrix
+2. The Point V is called the Vertex of the
+Parabola.
+3. The Point F is called the Focus.
+4. The right Lines AA, cutting the Axis at
+right Angles are called Ordinates. And that
+which is the greatest is called the Base of the
+Parabola.
+5. That Ordinate which passeth through the
+Focus, is called the Right Parameter or Latus
+Rectum, as AFA.
+6. The distance in the Axis from the Vertex to
+any Ordinate, is called the Abcissa to that Ordinate,
+so VC is the Abcissa to the Ordinate CA.

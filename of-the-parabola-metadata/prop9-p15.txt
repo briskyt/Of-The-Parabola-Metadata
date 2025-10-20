@@ -1,0 +1,15 @@
+Of the Parabola  15
+Proposition 9
+If from A the point of contact, there be drawn
+the right Line AD perpendicular to the Tang'
+TA, the Sub-normal CD is a standing quantity,
+being always equal to half the Latus Rectum.
+T
+D
+Let 1 VC = VT. by Prop. 7 = x
+Euclid 2 TC : AC :: AC : CD
+8 & 4. 6.
+That is 3 2x : y :: y : yy/2x = CD
+Prop. 3 4 yy = LX
+Therefore 5 Lx/2x or 1/2L = CD, as was to be
+proved.

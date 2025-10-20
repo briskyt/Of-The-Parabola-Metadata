@@ -1,0 +1,14 @@
+Of the Parabola  25
+Proposition 18.
+The distance in the Axis from the intersec-
+tion of the Tangent to the end of the Subnor-
+mal is equal to half the Parameter of that
+Diameter whose Vertex is the touch Point.
+That is = 1/2P.
+T
+F A
+D
+Prop. 15. 1 FA = 1/4P, and
+Prop. 10 2 FA = FT = FD
+1.2. 3 FT or FD = 1/4P
+: 3. 4 TD = 1/2P, as was to be proved.

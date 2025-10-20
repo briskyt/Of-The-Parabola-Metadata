@@ -1,0 +1,18 @@
+Of the Parabola     3
+B
+D
+7. If from any Point A in a Curve, a right
+Line AC be drawn parallel to the Axis, that
+Line is called a Diamater, and the Point A, the
+Vertex of the Diameter. And any right Line
+as CEH, which is cut by the Diameter into two
+equal parts, is called an Ordinate to that Dia-
+meter.
+8. If through the Point T in the Curve there be
+drawn the Tangent DTB meeting the Axis pro-
+duced in the Point B, and TK be drawn perpendi-
+cular to the Tangent DB, also VTI perpenicular
+to the Axis. Then IK is called the Subnor-
+mal, and IB the Subtangent. The first being
+always equal to half the Latus Rectum, and the
+latter always double the Abcissa.

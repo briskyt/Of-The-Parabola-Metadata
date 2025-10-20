@@ -1,0 +1,18 @@
+Of the Parabola  19
+Hence the Parallelogram KATO is = <|BKD,
+For TAC = |=| GC, consequently IBAT is =
+|=| GC + |=| BC = |=| GI = <| IDO, and taking
+away IBKO which is common to both, there will
+remain the figure KATO = <| BKD.
+Lemma
+If the Triangle A8C be equal to the Tra-
+pezium ADEF, and DE parallel to AC. Then,
+will DE + AF x DA = AB x AC
+B
+D E
+A G H C F
+Because <|ABC = Trap. ADEF, DE + AF x DG
+is = AC x BH. Therefore by Euc. 16. 6. DE + AF :
+AC :: BH : DG :: (by Euc. 4. 6.) AB : AD, conse-
+quently DE + AF : AC :: AB : AD, and therefore
+by 16.6. Euclid DE + AF x AD = AB x AC. q.e.d.

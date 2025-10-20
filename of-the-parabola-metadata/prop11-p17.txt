@@ -1,0 +1,16 @@
+Of the Parabola  17
+Proposition 11.
+If VG be drawn parallel to the Ordinate CA,
+until it meet the Tangent TA in the point G;
+the Square of VG shall be equal to the Rectangle
+under half the Latus Rectum, and half the
+Abcissa VC.
+T
+CA
+Let 1 VG = a, VC = x, CA = y
+Prop. 7 2 TV = 1/2TC, consequently
+Euc. 4.6 3 VG = 1/2CA, or a = 1/2y
+O 2 4 aa = 1/4yy, but
+Prop. 3 5 yy = Lx, whence 1/4yy = 1/2L x 1/2x
+Therefore 6 aa = 1/2L x 1/2x, that is VG^2 =
+FR x 1/2VC, as was to be proved.

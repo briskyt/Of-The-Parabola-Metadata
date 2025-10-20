@@ -1,0 +1,13 @@
+22 Of the Parabola
+Proposition 15
+The Parameter of any Diameter is equal
+to four times the distance of the Focus to the
+Vertex of that Diameter. That is, P = 4FA.
+T
+F A
+Prop. 14. 1 P = L + 4VT
+Prop. 3. 2 L = 4VF
+: 1 & 2. 3 P = 4VT + 4VF = VT + VF x 4
+Prop. 10. 4 VT + VF = FA
+: 3 & 4 5 P = 4FA. Which was to be
+demonstrated.
